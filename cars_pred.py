@@ -2,6 +2,7 @@ import pandas as pd
 import  streamlit as st
 import datetime 
 import pickle 
+import sklearn
 
 st.write("""
         # Cars Price Prediction
